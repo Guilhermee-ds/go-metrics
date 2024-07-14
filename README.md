@@ -32,7 +32,7 @@ Depois de ter todas a dependências informadas anteriormente
 Inicie o container
 
 ```shell
-docker compose up
+docker-compose up
 ```
 
 Inicie o shell para gerar os pagamentos
